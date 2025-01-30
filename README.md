@@ -17,7 +17,7 @@ As always the condtions for this certificate projects were:
  ## Website:
 In this repository you can see the code of the project (index.html and styles.css).  
 If you wonder how does the website look like, I deployed it  (making it live) through one of the options of profile on github.  
-The link: https://drentey.github.io/CCf-CertProj-02-TributeP/  
+The link: https://drentey.github.io/CCf-CertProj-03-DocumentationP/
 Currently it can be seen also as a small internal website (iframe) on my website of my profile on github where I try to put recent project.  
 The link: https://drentey.github.io/
   
@@ -37,9 +37,9 @@ This understanding is not always perfectly there, and the root sometimes appeare
  
 The good manuals I had dedicated an introductory chapter to syntax, but even that was not enough for many. My professors told me to read them at home or provide some materials to read at home, at that's it because there is no time to at the begining to explain it, yet some of them ask for it. 
 Studing in Greek III the syntax, I have seen that this questions actually were not very difficult, and can be taught to the newbies. The best method in that sense is tutoring; I found out that providing an algorithm for analysis helps (
- -look for verbs 
+ - look for verbs 
  - how many verbs, how many predicates
  - where are their subjects, where are their objects
- -  are there other complements, etc.)
+ - are there other complements, etc.
 
 This website was meant as a "starter" on a journey of learning about syntax. I passed on what I have received from my teacher, and what I saw as important point, acknowleding that it could be said with more clarity, which probably at this stage I do not have yet over this enormous camp.  
