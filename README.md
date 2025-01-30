@@ -1,2 +1,27 @@
 # CCf-CertProj-03-DocumentationP
 Project done for Responsive Web Design Certification from freeCodeCamp
+
+## Aim of the project:
+The goal of the second project was to ** build a webpage representing _a technical documention/or manual_ to some issues**.  
+The main conditions as far as I remember were:
+- It has to have a left-side navigation bar (nav) which on the big/medium screens will be fixed to the left side of the display, and on small screens/ mobile phones will be at the top of display, and then it will disappear when looking at other content. 
+- The navigation bar has to have as much hyperlinks as there is sections in the documents, but there have to be at least 5 sections in the document.
+- Within 5+ sections of the document there have to be certain amount of "li" elements (list index of order/undorder lists), certain amount of "code" elements, and of paragraphs?
+- There should be strict correlation between the names of the links and the sections of the document.
+
+I was left free to decide upon colours and styles of the form.
+As always the condtions for this certificate projects were:
+- It had to be a personal work, using the knowledge learned through previous lessons. 
+- It had to be build using html5 and css3.
+- 
+## Choice of the topic:
+I have decided to dedicate this technical page to explanation of "technical terms" of syntax. I have found out, working with my collegues or teaching the students, that this is a big issue in learning ancient langauges: to study ancient languages (in aim of learning to translate texts), you need to have already a basis -> understadning of syntactical categories and relations. 
+The good manuals I had dedicated an introductory chapter to syntax, but even that was not enough for many. My professors told me to read them at home or provide some materials to read at home, at that's it because there is no time to at the begining to explain it, yet some of them ask for it. 
+Studing in Greek III the syntax, I have seen that this questions actually were not very difficult, and can be taught to the newbies. The best method in that sense is tutoring; I found out that providing an algorithm for analysis helps (look for verbs -> how many verbs, how many predicates -> where are their subjects, where are their objects -> are there other complementsetc.) 
+
+## Website:
+In this repository you can see the code of the project (index.html and styles.css).  
+If you wonder how does the website look like, I deployed it  (making it live) through one of the options of profile on github.  
+The link: https://drentey.github.io/CCf-CertProj-02-TributeP/  
+Currently it can be seen also as a small internal website (iframe) on my website of my profile on github where I try to put recent project.  
+The link: https://drentey.github.io/
