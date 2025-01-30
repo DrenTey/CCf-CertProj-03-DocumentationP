@@ -23,7 +23,7 @@ The link: https://drentey.github.io/
   
 ## Choice of the topic:
 I have decided to dedicate this technical page to explanation of "technical terms" of syntax. I have found out, working with my collegues or teaching the students, that this is a big issue in learning ancient langauges: to study ancient languages (in aim of learning to translate texts), you need to have already a basis -> understanding of syntactical categories and relations.  
-This understanding is not always perfectly there, and the root sometimes appeared to be traced to one of three roots:
+This understanding is not always perfectly there, and the root sometimes appeared to be traced to one of two roots:
 1. The societies and nations had differently structures their home-language curriculum:
    - some countries like Poland or Italy insisted on teaching syntax in their home-language curriculum
    - some English-speaking country (like Great Britain/USA) historically have been teaching Latin/Greek in the schools and the way the syntax works has been "worked out" by learning those ancient languages. With the disappearence of Latin/Greek from school curriculum, the teaching of syntax could get lost. 
