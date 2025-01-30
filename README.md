@@ -32,6 +32,7 @@ This understanding is not always perfectly there, and the root sometimes appeare
    - If the home/foreign language does every type of predication with the Verb, then the syntactical relations possibly could be downgraded from "S-P-O-C" (Subject-Predicate-Object-Complements) to SVO (Subject Verb Object) doing some compensations (multplying categories, explaing particular cases).
    - The difficulty fot the student which downgraded to SVO model, that dealing with ancient languages like Greek or Hebrew, it will find out that nominal predication do not need explicit verb (Greek), and passing to Hebrew it will learn that the most easy/common way to speak about present facts, is to use non-verbal predication (i.e. building meaningful sentences without a verb)
      - adverbial predication (I .. in house, You ... there),
+     - nominal predication (the man ... worker of the city)
      - adjectival predication (the man... beautiful)
      - participial predication (the old man ... hard working in the eyes of his wife)
  
