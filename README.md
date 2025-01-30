@@ -17,7 +17,7 @@ As always the condtions for this certificate projects were:
  ## Website:
 In this repository you can see the code of the project (index.html and styles.css).  
 If you wonder how does the website look like, I deployed it  (making it live) through one of the options of profile on github.  
-The link: https://drentey.github.io/CCf-CertProj-03-DocumentationP/
+The link: https://drentey.github.io/CCf-CertProj-03-DocumentationP/  
 Currently it can be seen also as a small internal website (iframe) on my website of my profile on github where I try to put recent project.  
 The link: https://drentey.github.io/
   
